@@ -1,0 +1,7 @@
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\bin\Debug\Calculator.exe.config
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\bin\Debug\Calculator.exe
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\bin\Debug\Calculator.pdb
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\obj\Debug\Calculator.exe
+D:\College (SMT 2)\Classroom\Pemrograman\simpleCalculator\Calculator\obj\Debug\Calculator.pdb
